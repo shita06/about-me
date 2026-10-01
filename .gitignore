@@ -1,0 +1,9 @@
+# Windowsが自動生成するファイル
+Thumbs.db
+desktop.ini
+
+# macOSが自動生成するファイル
+.DS_Store
+
+# エディタの個人設定
+.vscode/
