@@ -10,4 +10,12 @@
 
 ## Skills
 
+| 技術 | 状況 |
+|---|---|
+| C | 基礎を一通り学習済み |
+| Python | 基礎のみ |
+| Git / GitHub | 学習中 |
+| HTML / CSS | これから |
+| JavaScript | これから |
+
 ## Links
